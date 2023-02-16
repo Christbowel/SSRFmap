@@ -5,8 +5,8 @@ SSRF are often used to leverage actions on other services, this framework aims t
 
 # LFI To RCE
 
-Code name ``lfitorce.py`` use to exploit lfi ton RCE vulnerability and have an interactive session !
-Tool add by christbowel 💻🎭
+Code name ``lfitorce.py`` using to exploit an lfi to RCE vulnerability and have an interactive session !
+Tool added by christbowel 💻🎭
 
 > Server Side Request Forgery or SSRF is a vulnerability in which an attacker forces a server to perform requests on their behalf.
 
