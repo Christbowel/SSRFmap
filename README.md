@@ -3,6 +3,11 @@
 
 SSRF are often used to leverage actions on other services, this framework aims to find and exploit these services easily. SSRFmap takes a Burp request file as input and a parameter to fuzz.
 
+# LFI To RCE
+
+Code name ``lfitorce.py`` use to exploit lfi ton RCE vulnerability and have an interactive session !
+Tool add by christbowel 💻🎭
+
 > Server Side Request Forgery or SSRF is a vulnerability in which an attacker forces a server to perform requests on their behalf.
 
 ## Summary
